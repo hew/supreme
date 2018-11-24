@@ -1,0 +1,3 @@
+rootProject.name = 'Supreme'
+
+include ':app'
